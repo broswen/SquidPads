@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SquidPads:jar">
+    <output-path>$USER_HOME$/desktop/plugin testing/plugins</output-path>
+    <root id="archive" name="SquidPads.jar">
+      <element id="module-output" name="SquidPads" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
